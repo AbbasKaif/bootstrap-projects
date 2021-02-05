@@ -1,0 +1,15 @@
+.box-shadow {
+	box-shadow: 0 .25rem 0.75rem rgba(0,0,0,.05);
+}
+
+.border-btm {
+	border-bottom: 1px solid #161616;
+}
+
+.pricing-width {
+	max-width: 730px;
+}
+
+.container {
+	width: 940px;
+}

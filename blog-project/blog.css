@@ -1,0 +1,57 @@
+.blog-logo {
+	font-family: "Playfair Display", "Georgia", "Times New Roman";
+	font-size: 2.25rem;
+}
+
+.blog-logo:hover {
+	text-decoration: none;
+}
+
+.blog-header {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Playfair Display", "Georgia", "Times New Roman"; 
+}
+
+.box-shadow {
+	box-shadow: 0 .25rem .75rem regba(0, 0, 0, .05);
+}
+
+.h-250 {
+	height: 250px;
+}
+
+.flex-auto {
+	/*flex-shorthand: flex-grow-size flex-shrik-size size*/
+	flex: 0 0 auto;
+}
+
+.blog-post {
+	margin-bottom: 4rem;
+}
+
+.blog-post-title {
+	margin-bottom: 1rem;
+	font-size: 2.5rem;
+}
+
+.blog-post-meta {
+	color: #999;
+}
+
+.blog-p {
+	margin-bottom: 4rem;
+}
+
+.blog-p > .btn {
+	border-radius: 2rem;
+}
+
+.blog-footer {
+	border-top: .05rem solid #e5e5e5;
+	background-color: #f9f9f9;
+	color: #999;
+	padding: 2.5rem 0;
+}
